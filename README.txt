@@ -11,4 +11,7 @@ eurhfi erfuber vfervber v
 
 ## SMTH
 
+##Team
+Mariia Lisunova
+
 2018 GIT Training
