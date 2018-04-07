@@ -14,6 +14,6 @@ orujhvjfjfujfdujrfuj more changes
 ## SMTH else
 
 ##Team
-Mariia Lisunova
+Mariia Lisunova 2018
 
 2018 GIT Training
